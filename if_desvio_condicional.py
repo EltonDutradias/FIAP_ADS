@@ -16,4 +16,6 @@ else:
       print("Sua participação foi autorizada, aluno de RM {}!" .format(rm))
       print("Mais informações serão enviadas para o email dos responsáveis!") 
   else: 
-      print("Sua participação não foi autorizada por causa da sua idade!")
+      print("Sua participação não foi autorizada por causa da sua idade!") 
+      #Muito importante ter cuidado na indentação do código para que o programa rode conforme necessário e sem problemas .
+      
