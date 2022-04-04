@@ -25,4 +25,5 @@ elif pontuacao >= 200:
     print("O cliente tem direito a receber mais 500mb na sua franquia de internet!")     
 else: 
     print("O cliente não receberá bônus.")    
-    '''Como é possível observar tivemos fácil gestão da indentação do código e eliminamos 2 linhas de código, obtvemos o mesmo sucesso do código anterior que foi utilizado somente IF e ELSE.'''
+    '''Como é possível observar tivemos fácil gestão da indentação do código e eliminamos 2 linhas de código,  
+    obtvemos o mesmo sucesso do código anterior que foi utilizado somente IF e ELSE.'''
